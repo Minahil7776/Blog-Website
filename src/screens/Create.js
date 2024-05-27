@@ -17,7 +17,7 @@
         alert("You have to fill all fields")
       }
       else{
-      setTitle(title)
+        setTitle(title)
       navigate("/Home")
       }
     }
